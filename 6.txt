@@ -1,0 +1,14 @@
+Windows Command:
+
+Create an empty file:
+type nul>1.txt
+
+Write content in a file:
+copy con 1.txt
+(Use ctrl+z to exit)
+
+Change disk:
+d:
+
+Remove file:
+del 1.txt
